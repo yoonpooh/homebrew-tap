@@ -1,8 +1,8 @@
 class Sparekey < Formula
   desc "Let an AI agent unlock your Mac, do its work, and lock it again"
   homepage "https://github.com/yoonpooh/sparekey"
-  url "https://github.com/yoonpooh/sparekey/archive/refs/tags/v0.3.7.tar.gz"
-  sha256 "c618f26167f1a373c0e5c6b3e14e12f4268744a449314c5c4130245cb299dc39"
+  url "https://github.com/yoonpooh/sparekey/archive/refs/tags/v0.3.8.tar.gz"
+  sha256 "f45893c9af9970d41aabed976a90d5c52670d668bff588f38655ab22c7d21fce"
   license "MIT"
 
   depends_on macos: :ventura
